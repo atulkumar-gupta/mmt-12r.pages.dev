@@ -108,26 +108,10 @@ To run this project, you will need to add the following environment variables to
 - Purchase the Product
 - Do payment with any type of method(Card/UPI/Net-banking)
 
-
-## Acknowledgements
-
- - [makemytrip.com](https://www.makemytrip.com/)
- - [Masai School](https://masaischool.com/)
-  
-
-## Authors
-
--  [Arpit Sachan](https://github.com/sachanarpit/)
-
-- [Dharmesh Yadav](https://github.com/dharmeshrao)
-
-- [Rahul Kumar Yadav](https://github.com/rahulyadav96)
-
-
 ## Home Page
 
 
-![screencapture-localhost-3005-2021-11-13-20_06_05.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1636819763376/zjIHEBDE0.png)
+![screencapture-localhost-3005-2025-05-08-25_05_08.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1636819763376/zjIHEBDE0.png)
 
 
 ## Login and Otp verification
@@ -137,20 +121,7 @@ To run this project, you will need to add the following environment variables to
 ![e5af704b-7928-4a7a-862f-98b69ef92d5b.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1636819849756/g819xGufS.jpeg)
 
 
-## Search Page
-
-![screencapture-localhost-3005-search-2021-11-13-20_08_52.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1636819783064/o0BPrMowgc.png)
-![Screenshot (42)](https://user-images.githubusercontent.com/87421773/141656488-8910d26d-c2e8-4678-92e5-4d00641ecdac.png)
-
-##Payment Page
-
-![screencapture-localhost-3005-checkout-2021-11-13-20_53_49](https://user-images.githubusercontent.com/87421773/141656572-8077485c-c55a-4a89-a26a-5e0d714d4d46.png)
-
-![screencapture-localhost-3005-final-2021-11-13-20_10_22.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1636819919150/eUj6IOOoc.png)
-
-![screencapture-localhost-3005-final-2021-11-13-20_10_48.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1636819925472/eRRCvR1Dr.png)
-
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1636819997027/85PGB_l7i.png)
 
 
-- GITHUB - https://github.com/sachanarpit/make-my-trip
+
+
